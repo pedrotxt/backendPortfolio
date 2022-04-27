@@ -48,47 +48,5 @@
       "image": "https://fipt.org.br/imagens/img_em_construcao.png"
 
     }
-  ],
-  "resumo": [
-    {
-      "id": 9,
-      "title": "Resumo",
-      "conteudo": ""
-    }
-  ],
-  "skills": [
-    {
-      "id": 10,
-      "title": "Skills",
-      "conteudo": ""
-    }
-  ],
-  "faculdade": [
-    {
-      "id": 11,
-      "title": "Faculdade",
-      "conteudo": ""
-    }
-  ],
-  "certificado": [
-    {
-      "id": 12,
-      "title": "Certficados",
-      "conteudo": ""
-    }
-  ],
-  "experiencia": [
-    {
-      "id": 13,
-      "title": "Experiencia",
-      "conteudo": ""
-    }
-  ],
-  "interesses": [
-    {
-      "id": 14,
-      "title": "Interesses",
-      "conteudo": ""
-    }
   ]
 }
